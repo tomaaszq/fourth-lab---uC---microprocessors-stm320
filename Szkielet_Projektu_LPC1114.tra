@@ -1,0 +1,24 @@
+*** Creating Trace Output File '.\Objects\Szkielet_Projektu_LPC1114.tra' Ok.
+### Preparing for ADS-LD.
+### Creating ADS-LD Command Line
+### List of Objects: adding '".\objects\startup_lpc11xx.o"'
+### List of Objects: adding '".\objects\system_lpc11xx.o"'
+### List of Objects: adding '".\objects\szkielet_main.o"'
+### List of Objects: adding '".\objects\gpio.o"'
+### List of Objects: adding '".\objects\irq_systick.o"'
+### ADS-LD Command completed:
+--cpu Cortex-M0 ".\objects\startup_lpc11xx.o" ".\objects\system_lpc11xx.o" ".\objects\szkielet_main.o" ".\objects\gpio.o" ".\objects\irq_systick.o" 
+--strict --scatter ".\Objects\Szkielet_Projektu_LPC1114.sct" 
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols 
+--info sizes --info totals --info unused --info veneers 
+ --list ".\Listings\Szkielet_Projektu_LPC1114.map" -o .\Objects\Szkielet_Projektu_LPC1114.axf### Preparing Environment (PrepEnvAds)
+### ADS-LD Output File: '.\Objects\Szkielet_Projektu_LPC1114.axf'
+### ADS-LD Command File: '.\Objects\Szkielet_Projektu_LPC1114.lnp'
+### Checking for dirty Components...
+### Creating CmdFile '.\Objects\Szkielet_Projektu_LPC1114.lnp', Handle=0x000014D8
+### Writing '.lnp' file
+### ADS-LD Command file '.\Objects\Szkielet_Projektu_LPC1114.lnp' is ready.
+### ADS-LD: About to start ADS-LD Thread.
+### ADS-LD: executed with 0 errors
+### Updating obj list
+### LDADS_file() completed.

@@ -1,0 +1,6 @@
+Tutaj nalezy wpisac cel i sposob realizacji projektu.
+
+Nie nalezy uzywac polskich liter ze wzgledu na sposob 
+kodowania srodowiska uVision
+
+W debuger-ze (Logic Analyser) jest wizualizacja linii PIO0_8.

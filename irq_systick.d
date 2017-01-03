@@ -1,0 +1,9 @@
+.\Objects\irq_systick.o: Interrupt\IRQ_SysTick.c
+.\Objects\irq_systick.o: C:\Keil\ARM\Inc\NXP\LPC11xx\LPC11xx.h
+.\Objects\irq_systick.o: C:\Keil\ARM\CMSIS\Include\core_cm0.h
+.\Objects\irq_systick.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\Objects\irq_systick.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\Objects\irq_systick.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\Objects\irq_systick.o: C:\Keil\ARM\Inc\NXP\LPC11xx\system_LPC11xx.h
+.\Objects\irq_systick.o: .\Include\gpio.h
+.\Objects\irq_systick.o: .\Include\user_LPC1114.h

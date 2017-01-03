@@ -1,0 +1,38 @@
+Dependencies for Project 'Szkielet_Projektu_LPC1114', Target 'Szkielet_Projektu_LPC1114': (DO NOT MODIFY !)
+F (.\Device\startup_LPC11xx.s)(0x56373B5E)(--cpu Cortex-M0 --pd "__EVAL SETA 1" -g --apcs=interwork -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\NXP\LPC11xx --list ".\Listings\startup_LPC11xx.lst" --xref -o ".\Objects\startup_LPC11xx.o" --depend ".\Objects\startup_LPC11xx.d")
+F (.\Device\system_LPC11xx.c)(0x56373B2E)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I.\Include -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\NXP\LPC11xx -o ".\Objects\system_lpc11xx.o" --omf_browse ".\Objects\system_lpc11xx.crf" --depend ".\Objects\system_lpc11xx.d")
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x50F9B5B0)
+I (C:\Keil\ARM\Inc\NXP\LPC11xx\LPC11xx.h)(0x5087A02A)
+I (C:\Keil\ARM\CMSIS\Include\core_cm0.h)(0x5087A1CE)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x5087A1CE)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x5087A1CE)
+I (C:\Keil\ARM\Inc\NXP\LPC11xx\system_LPC11xx.h)(0x5087A02A)
+F (.\Source\Szkielet_main.c)(0x58611539)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I.\Include -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\NXP\LPC11xx -o ".\Objects\szkielet_main.o" --omf_browse ".\Objects\szkielet_main.crf" --depend ".\Objects\szkielet_main.d")
+I (C:\Keil\ARM\Inc\NXP\LPC11xx\LPC11xx.h)(0x5087A02A)
+I (C:\Keil\ARM\CMSIS\Include\core_cm0.h)(0x5087A1CE)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x50F9B5B0)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x5087A1CE)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x5087A1CE)
+I (C:\Keil\ARM\Inc\NXP\LPC11xx\system_LPC11xx.h)(0x5087A02A)
+I (.\Include\gpio.h)(0x50734202)
+I (.\Include\user_LPC1114.h)(0x58611542)
+F (.\Library\gpio.c)(0x54ECDD18)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I.\Include -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\NXP\LPC11xx -o ".\Objects\gpio.o" --omf_browse ".\Objects\gpio.crf" --depend ".\Objects\gpio.d")
+I (C:\Keil\ARM\Inc\NXP\LPC11xx\LPC11xx.h)(0x5087A02A)
+I (C:\Keil\ARM\CMSIS\Include\core_cm0.h)(0x5087A1CE)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x50F9B5B0)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x5087A1CE)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x5087A1CE)
+I (C:\Keil\ARM\Inc\NXP\LPC11xx\system_LPC11xx.h)(0x5087A02A)
+I (.\Include\gpio.h)(0x50734202)
+F (.\Interrupt\IRQ_SysTick.c)(0x5861155D)(-c --cpu Cortex-M0 -D__EVAL -g -O0 --apcs=interwork -I.\Include -I C:\Keil\ARM\RV31\INC -I C:\Keil\ARM\CMSIS\Include -I C:\Keil\ARM\Inc\NXP\LPC11xx -o ".\Objects\irq_systick.o" --omf_browse ".\Objects\irq_systick.crf" --depend ".\Objects\irq_systick.d")
+I (C:\Keil\ARM\Inc\NXP\LPC11xx\LPC11xx.h)(0x5087A02A)
+I (C:\Keil\ARM\CMSIS\Include\core_cm0.h)(0x5087A1CE)
+I (C:\Keil\ARM\ARMCC\bin\..\include\stdint.h)(0x50F9B5B0)
+I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x5087A1CE)
+I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x5087A1CE)
+I (C:\Keil\ARM\Inc\NXP\LPC11xx\system_LPC11xx.h)(0x5087A02A)
+I (.\Include\gpio.h)(0x50734202)
+I (.\Include\user_LPC1114.h)(0x58611542)
+F (.\Abstract.txt)(0x58011782)()
+F (.\Include\gpio.h)(0x50734202)()
+F (.\Include\user_LPC1114.h)(0x58611542)()
